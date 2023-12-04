@@ -1,0 +1,29 @@
+/* styles.css */
+
+/* Apply styles to the root node */
+.root {
+    -fx-background-color: #f0f0f0; /* Set the background color */
+}
+
+/* Apply styles to buttons */
+.button {
+    -fx-background-color: #4CAF50; /* Set button background color */
+    -fx-text-fill: white; /* Set text color */
+    -fx-font-size: 14px; /* Set font size */
+    -fx-padding: 8px 16px; /* Set padding */
+}
+
+/* Apply styles to ImageView */
+#dogImageView {
+    -fx-border-color: black; /* Set border color for the ImageView */
+    -fx-border-width: 2px; /* Set border width */
+    -fx-border-radius: 5px; /* Round corners */
+}
+
+/* Apply styles to Change Scene button */
+#changeSceneButton {
+    -fx-background-color: #2196F3; /* Set button background color */
+    -fx-text-fill: white; /* Set text color */
+    -fx-font-size: 14px; /* Set font size */
+    -fx-padding: 8px 16px; /* Set padding */
+}
